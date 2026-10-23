@@ -1,0 +1,6 @@
+{
+  "name": "أبطال الفصل — Class Heroes",
+  "description": "تطبيق تعليمي تفاعلي متكامل لإدارة الفصول وتحفيز الطلاب بالنقاط والمكافآت — إعداد وتطوير المعلم أسامة الشهري",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

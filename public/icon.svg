@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="50%" stop-color="#4338ca" />
+      <stop offset="100%" stop-color="#312e81" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fde047" />
+      <stop offset="50%" stop-color="#eab308" />
+      <stop offset="100%" stop-color="#ca8a04" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.3" />
+    </filter>
+  </defs>
+
+  <!-- Background rounded rect -->
+  <rect width="512" height="512" rx="112" fill="url(#bg)" />
+
+  <!-- Shield Shape -->
+  <path d="M256 70 L390 130 C390 280 256 390 256 420 C256 390 122 280 122 130 Z" 
+        fill="#ffffff" fill-opacity="0.12" stroke="url(#gold)" stroke-width="8" filter="url(#shadow)" />
+
+  <!-- Hero Crown -->
+  <path d="M170 310 L160 210 L215 250 L256 180 L297 250 L352 210 L342 310 Z" 
+        fill="url(#gold)" filter="url(#shadow)" />
+
+  <!-- Crown Base Gem Band -->
+  <rect x="165" y="300" width="182" height="26" rx="13" fill="#ca8a04" />
+  <circle cx="210" cy="313" r="6" fill="#ffffff" />
+  <circle cx="256" cy="313" r="7" fill="#ef4444" />
+  <circle cx="302" cy="313" r="6" fill="#ffffff" />
+
+  <!-- Central Star of Achievement -->
+  <path d="M256 220 L262 236 L279 237 L266 248 L270 265 L256 254 L242 265 L246 248 L233 237 L250 236 Z" 
+        fill="#ffffff" />
+
+  <!-- Subtitle Arabic typography ribbon / badge -->
+  <text x="256" y="380" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="34" fill="#ffffff" text-anchor="middle" letter-spacing="1">أبطال الفصل</text>
+  <text x="256" y="405" font-family="system-ui, -apple-system, sans-serif" font-weight="600" font-size="14" fill="#fde047" text-anchor="middle" letter-spacing="2">CLASS HEROES</text>
+</svg>

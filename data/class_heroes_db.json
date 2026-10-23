@@ -1,0 +1,1977 @@
+{
+  "users": [
+    {
+      "id": "teacher_osama_1",
+      "email": "alshehriosama9009@gmail.com",
+      "name": "المعلم أسامة الشهري",
+      "role": "teacher",
+      "passwordHash": "password123",
+      "token": "token_teacher_osama_valid",
+      "createdAt": "2026-08-24T13:16:46.270Z",
+      "teacherProfile": {
+        "schoolName": "مدرسة رواد المستقبل الابتدائية والمتوسطة",
+        "subscriptionTier": "pro",
+        "subscriptionExpiresAt": "2027-10-23T13:30:51.155Z",
+        "isAutoRenewing": true,
+        "purchaseHistory": [
+          {
+            "id": "pur_1792762251155",
+            "platform": "web",
+            "productId": "sa.classheroes.sub.pro.annual",
+            "tier": "pro",
+            "amountSar": 149,
+            "date": "2026-10-23T13:30:51.155Z",
+            "status": "verified",
+            "receiptOrToken": "web_direct_upgrade_1792762251155"
+          },
+          {
+            "id": "pur_seed_1",
+            "platform": "apple_app_store",
+            "productId": "sa.classheroes.sub.plus.annual",
+            "tier": "plus",
+            "amountSar": 99,
+            "date": "2026-09-23T13:16:46.270Z",
+            "status": "verified",
+            "receiptOrToken": "apple_receipt_verified_99sar"
+          }
+        ]
+      }
+    },
+    {
+      "id": "stu_101",
+      "email": "s101@heroes.local",
+      "name": "خالد العتيبي",
+      "role": "student",
+      "passwordHash": "1111",
+      "token": "token_student_stu_101",
+      "createdAt": "2026-09-23T13:16:46.269Z",
+      "studentProfile": {
+        "classId": "class_5a",
+        "studentCode": "S101",
+        "pinCode": "1111",
+        "gradeLevel": "الصف الخامس"
+      }
+    },
+    {
+      "id": "stu_102",
+      "email": "s102@heroes.local",
+      "name": "فهد الشمري",
+      "role": "student",
+      "passwordHash": "2222",
+      "token": "token_student_stu_102",
+      "createdAt": "2026-09-23T13:16:46.270Z",
+      "studentProfile": {
+        "classId": "class_5a",
+        "studentCode": "S102",
+        "pinCode": "2222",
+        "gradeLevel": "الصف الخامس"
+      }
+    },
+    {
+      "id": "stu_103",
+      "email": "s103@heroes.local",
+      "name": "عبدالله القحطاني",
+      "role": "student",
+      "passwordHash": "3333",
+      "token": "token_student_stu_103",
+      "createdAt": "2026-09-25T13:16:46.270Z",
+      "studentProfile": {
+        "classId": "class_5a",
+        "studentCode": "S103",
+        "pinCode": "3333",
+        "gradeLevel": "الصف الخامس"
+      }
+    },
+    {
+      "id": "stu_104",
+      "email": "s104@heroes.local",
+      "name": "عمر الغامدي",
+      "role": "student",
+      "passwordHash": "4444",
+      "token": "token_student_stu_104",
+      "createdAt": "2026-09-28T13:16:46.270Z",
+      "studentProfile": {
+        "classId": "class_5a",
+        "studentCode": "S104",
+        "pinCode": "4444",
+        "gradeLevel": "الصف الخامس"
+      }
+    },
+    {
+      "id": "stu_105",
+      "email": "s105@heroes.local",
+      "name": "سلمان الدوسري",
+      "role": "student",
+      "passwordHash": "5555",
+      "token": "token_student_stu_105",
+      "createdAt": "2026-09-28T13:16:46.270Z",
+      "studentProfile": {
+        "classId": "class_5a",
+        "studentCode": "S105",
+        "pinCode": "5555",
+        "gradeLevel": "الصف الخامس"
+      }
+    },
+    {
+      "id": "stu_106",
+      "email": "s106@heroes.local",
+      "name": "سعود الحربي",
+      "role": "student",
+      "passwordHash": "6666",
+      "token": "token_student_stu_106",
+      "createdAt": "2026-10-03T13:16:46.270Z",
+      "studentProfile": {
+        "classId": "class_5a",
+        "studentCode": "S106",
+        "pinCode": "6666",
+        "gradeLevel": "الصف الخامس"
+      }
+    },
+    {
+      "id": "stu_107",
+      "email": "s107@heroes.local",
+      "name": "عبدالعزيز الشهري",
+      "role": "student",
+      "passwordHash": "7777",
+      "token": "token_student_stu_107",
+      "createdAt": "2026-10-03T13:16:46.270Z",
+      "studentProfile": {
+        "classId": "class_5a",
+        "studentCode": "S107",
+        "pinCode": "7777",
+        "gradeLevel": "الصف الخامس"
+      }
+    },
+    {
+      "id": "stu_108",
+      "email": "s108@heroes.local",
+      "name": "محمد المطيري",
+      "role": "student",
+      "passwordHash": "8888",
+      "token": "token_student_stu_108",
+      "createdAt": "2026-10-08T13:16:46.270Z",
+      "studentProfile": {
+        "classId": "class_5a",
+        "studentCode": "S108",
+        "pinCode": "8888",
+        "gradeLevel": "الصف الخامس"
+      }
+    },
+    {
+      "id": "teacher_1792761938495",
+      "email": "techear.schol@gamil.com",
+      "name": "زياد علي الشهري",
+      "role": "teacher",
+      "passwordHash": "123455",
+      "token": "token_teacher_1792761938495_ms9vpkw",
+      "createdAt": "2026-10-23T13:25:38.495Z",
+      "teacherProfile": {
+        "schoolName": "التعاون الاهلية",
+        "subscriptionTier": "free",
+        "isAutoRenewing": false
+      }
+    }
+  ],
+  "classrooms": [
+    {
+      "id": "class_5a",
+      "teacherId": "teacher_osama_1",
+      "name": "أبطال الصف الخامس (أ)",
+      "gradeLevel": "الخامس الابتدائي",
+      "schoolYear": "1446-1447 هـ",
+      "leaderboardVisible": true,
+      "showStudentNames": true,
+      "archived": false,
+      "createdAt": "2026-09-23T13:16:46.270Z"
+    },
+    {
+      "id": "class_6b",
+      "teacherId": "teacher_osama_1",
+      "name": "فرسان الصف السادس (ب)",
+      "gradeLevel": "السادس الابتدائي",
+      "schoolYear": "1446-1447 هـ",
+      "leaderboardVisible": true,
+      "showStudentNames": true,
+      "archived": false,
+      "createdAt": "2026-10-03T13:16:46.270Z"
+    },
+    {
+      "id": "class_1792761938495",
+      "teacherId": "teacher_1792761938495",
+      "name": "الفصل الأول (أ)",
+      "gradeLevel": "المرحلة الابتدائية",
+      "schoolYear": "1446-1447 هـ",
+      "leaderboardVisible": true,
+      "showStudentNames": true,
+      "archived": false,
+      "createdAt": "2026-10-23T13:25:38.495Z"
+    },
+    {
+      "id": "class_1792762235194",
+      "teacherId": "teacher_osama_1",
+      "name": "Grade 6",
+      "gradeLevel": "سادس",
+      "schoolYear": "1447-1448",
+      "leaderboardVisible": true,
+      "showStudentNames": true,
+      "archived": false,
+      "createdAt": "2026-10-23T13:30:35.194Z"
+    }
+  ],
+  "students": [
+    {
+      "id": "stu_101",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "studentCode": "S101",
+      "pinCode": "1111",
+      "name": "خالد العتيبي",
+      "availableBalance": 4,
+      "totalEarned": 4,
+      "totalSpent": 0,
+      "historicalAchievement": 4,
+      "badges": [
+        "بطل المشاركة",
+        "المثالي"
+      ],
+      "activeTitle": "البطل الذهبي",
+      "archived": false,
+      "createdAt": "2026-09-23T13:16:46.269Z"
+    },
+    {
+      "id": "stu_102",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "studentCode": "S102",
+      "pinCode": "2222",
+      "name": "فهد الشمري",
+      "availableBalance": 120,
+      "totalEarned": 150,
+      "totalSpent": 30,
+      "historicalAchievement": 150,
+      "badges": [
+        "عبقري الألغاز"
+      ],
+      "activeTitle": "نجم التحدي",
+      "archived": false,
+      "createdAt": "2026-09-23T13:16:46.270Z"
+    },
+    {
+      "id": "stu_103",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "studentCode": "S103",
+      "pinCode": "3333",
+      "name": "عبدالله القحطاني",
+      "availableBalance": 95,
+      "totalEarned": 95,
+      "totalSpent": 0,
+      "historicalAchievement": 95,
+      "badges": [
+        "منضبط الفصل"
+      ],
+      "archived": false,
+      "createdAt": "2026-09-25T13:16:46.270Z"
+    },
+    {
+      "id": "stu_104",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "studentCode": "S104",
+      "pinCode": "4444",
+      "name": "عمر الغامدي",
+      "availableBalance": 80,
+      "totalEarned": 80,
+      "totalSpent": 0,
+      "historicalAchievement": 80,
+      "badges": [
+        "صديق البيئة"
+      ],
+      "archived": false,
+      "createdAt": "2026-09-28T13:16:46.270Z"
+    },
+    {
+      "id": "stu_105",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "studentCode": "S105",
+      "pinCode": "5555",
+      "name": "سلمان الدوسري",
+      "availableBalance": 110,
+      "totalEarned": 110,
+      "totalSpent": 0,
+      "historicalAchievement": 110,
+      "badges": [
+        "فارس الأسئلة"
+      ],
+      "archived": false,
+      "createdAt": "2026-09-28T13:16:46.270Z"
+    },
+    {
+      "id": "stu_106",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "studentCode": "S106",
+      "pinCode": "6666",
+      "name": "سعود الحربي",
+      "availableBalance": 65,
+      "totalEarned": 65,
+      "totalSpent": 0,
+      "historicalAchievement": 65,
+      "badges": [],
+      "archived": false,
+      "createdAt": "2026-10-03T13:16:46.270Z"
+    },
+    {
+      "id": "stu_107",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "studentCode": "S107",
+      "pinCode": "7777",
+      "name": "عبدالعزيز الشهري",
+      "availableBalance": 130,
+      "totalEarned": 160,
+      "totalSpent": 30,
+      "historicalAchievement": 160,
+      "badges": [
+        "أول الألعاب"
+      ],
+      "activeTitle": "نجم الصف",
+      "archived": false,
+      "createdAt": "2026-10-03T13:16:46.270Z"
+    },
+    {
+      "id": "stu_108",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "studentCode": "S108",
+      "pinCode": "8888",
+      "name": "محمد المطيري",
+      "availableBalance": 75,
+      "totalEarned": 75,
+      "totalSpent": 0,
+      "historicalAchievement": 75,
+      "badges": [
+        "المتعاون"
+      ],
+      "archived": false,
+      "createdAt": "2026-10-08T13:16:46.270Z"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "tx_seed_1",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "studentId": "stu_101",
+      "studentName": "خالد العتيبي",
+      "source": "behavior",
+      "subType": "quiet_etiquette",
+      "points": 1,
+      "reason": "الالتزام بالهدوء وآداب الفصل",
+      "performedBy": "teacher_osama_1",
+      "performedByName": "المعلم أسامة الشهري",
+      "date": "2026-10-23T11:16:46.270Z",
+      "dayDate": "2026-10-23"
+    },
+    {
+      "id": "tx_seed_2",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "studentId": "stu_101",
+      "studentName": "خالد العتيبي",
+      "source": "participation",
+      "subType": "distinguished",
+      "points": 2,
+      "reason": "مشاركة صحيحة ومتميزة في شرح المسألة",
+      "performedBy": "teacher_osama_1",
+      "performedByName": "المعلم أسامة الشهري",
+      "date": "2026-10-23T12:16:46.270Z",
+      "dayDate": "2026-10-23"
+    },
+    {
+      "id": "tx_seed_3",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "studentId": "stu_102",
+      "studentName": "فهد الشمري",
+      "source": "puzzles",
+      "subType": "medium",
+      "points": 5,
+      "reason": "حل لغز الذكاء الصفي بنجاح",
+      "performedBy": "teacher_osama_1",
+      "performedByName": "المعلم أسامة الشهري",
+      "date": "2026-10-23T12:46:46.270Z",
+      "dayDate": "2026-10-23"
+    },
+    {
+      "id": "tx_1792767397332_llsat",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "studentId": "stu_101",
+      "studentName": "خالد العتيبي",
+      "source": "games",
+      "subType": "true_false_blitz",
+      "points": 1,
+      "reason": "إنجاز نشاط «برق الصواب والخطأ: ثوابت العقيدة» (1/1 إجابة صحيحة)",
+      "performedBy": "system",
+      "performedByName": "منظومة الألعاب الذكية",
+      "date": "2026-10-23T14:56:37.332Z",
+      "dayDate": "2026-10-23"
+    }
+  ],
+  "rewards": [
+    {
+      "id": "rew_1",
+      "teacherId": "teacher_osama_1",
+      "title": "اختيار اللغز القادم",
+      "costPoints": 30,
+      "description": "يحق للطالب اختيار اللغز الصفي لليوم التالي",
+      "icon": "Sparkles",
+      "stock": null,
+      "isActive": true
+    },
+    {
+      "id": "rew_2",
+      "teacherId": "teacher_osama_1",
+      "title": "اختيار لعبة صفية",
+      "costPoints": 50,
+      "description": "اختيار لعبة تفاعلية يلعبها الفصل بالكامل",
+      "icon": "Gamepad2",
+      "stock": null,
+      "isActive": true
+    },
+    {
+      "id": "rew_3",
+      "teacherId": "teacher_osama_1",
+      "title": "لقب خاص في لوحة المتصدرين",
+      "costPoints": 75,
+      "description": "منح لقب شرفي مخصص يظهر بجانب اسم البطل",
+      "icon": "Crown",
+      "stock": null,
+      "isActive": true
+    },
+    {
+      "id": "rew_4",
+      "teacherId": "teacher_osama_1",
+      "title": "اختيار المقعد ليوم واحد",
+      "costPoints": 100,
+      "description": "حرية اختيار مكان الجلوس المفضل ليوم كامل",
+      "icon": "Armchair",
+      "stock": 5,
+      "isActive": true
+    },
+    {
+      "id": "rew_5",
+      "teacherId": "teacher_osama_1",
+      "title": "قلم مميز",
+      "costPoints": 150,
+      "description": "قلم فاخر هدية من المعلم أسامة الشهري",
+      "icon": "PenTool",
+      "stock": 12,
+      "isActive": true
+    },
+    {
+      "id": "rew_6",
+      "teacherId": "teacher_osama_1",
+      "title": "دفتر مع أقلام",
+      "costPoints": 250,
+      "description": "دفتر بتصميم مميز مع مجموعة أقلام تلوين",
+      "icon": "BookOpen",
+      "stock": 8,
+      "isActive": true
+    },
+    {
+      "id": "rew_7",
+      "teacherId": "teacher_osama_1",
+      "title": "صندوق المفاجآت",
+      "costPoints": 400,
+      "description": "صندوق هدايا سرية يحتوي على مفاجآت تحفيزية",
+      "icon": "Gift",
+      "stock": 4,
+      "isActive": true
+    },
+    {
+      "id": "rew_8",
+      "teacherId": "teacher_osama_1",
+      "title": "بطل الشهر",
+      "costPoints": 600,
+      "description": "تكريم رسمي كبطل الفصل للشهر وشهادة تقدير",
+      "icon": "Award",
+      "stock": 2,
+      "isActive": true
+    },
+    {
+      "id": "rew_9",
+      "teacherId": "teacher_osama_1",
+      "title": "الجائزة الكبرى",
+      "costPoints": 1000,
+      "description": "كأس الفصل المذهب وجائزة كبرى قيمة",
+      "icon": "Trophy",
+      "stock": 1,
+      "isActive": true
+    }
+  ],
+  "rewardRequests": [
+    {
+      "id": "req_seed_1",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "studentId": "stu_101",
+      "studentName": "خالد العتيبي",
+      "rewardId": "rew_1",
+      "rewardTitle": "اختيار اللغز القادم",
+      "costPoints": 30,
+      "status": "rejected",
+      "createdAt": "2026-10-23T12:46:46.270Z",
+      "updatedAt": "2026-10-23T13:26:49.990Z",
+      "rejectionReason": "عذرًا، غير متوفر حالياً"
+    }
+  ],
+  "tests": [
+    {
+      "id": "test_1",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "title": "اختبار الرياضيات الفصلي الأول",
+      "date": "2026-10-18",
+      "maxScore": 20,
+      "grades": [
+        {
+          "studentId": "stu_101",
+          "studentName": "خالد العتيبي",
+          "scoreOutOf20": 19.5,
+          "pointsAwarded": 10,
+          "transactionId": "tx_t1_1"
+        },
+        {
+          "studentId": "stu_102",
+          "studentName": "فهد الشمري",
+          "scoreOutOf20": 18,
+          "pointsAwarded": 7,
+          "transactionId": "tx_t1_2"
+        },
+        {
+          "studentId": "stu_103",
+          "studentName": "عبدالله القحطاني",
+          "scoreOutOf20": 16,
+          "pointsAwarded": 5,
+          "transactionId": "tx_t1_3"
+        },
+        {
+          "studentId": "stu_104",
+          "studentName": "عمر الغامدي",
+          "scoreOutOf20": 14,
+          "pointsAwarded": 3,
+          "transactionId": "tx_t1_4"
+        },
+        {
+          "studentId": "stu_105",
+          "studentName": "سلمان الدوسري",
+          "scoreOutOf20": 9,
+          "pointsAwarded": 1,
+          "transactionId": "tx_t1_5"
+        }
+      ]
+    }
+  ],
+  "homeworks": [
+    {
+      "id": "hw_1",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "title": "واجب العلوم: دورة حياة النبات",
+      "dueDate": "2026-10-20",
+      "submissions": [
+        {
+          "studentId": "stu_101",
+          "studentName": "خالد العتيبي",
+          "quality": "complete_correct",
+          "submittedOnTime": true,
+          "pointsAwarded": 5,
+          "transactionId": "tx_hw_1"
+        },
+        {
+          "studentId": "stu_102",
+          "studentName": "فهد الشمري",
+          "quality": "minor_errors",
+          "submittedOnTime": true,
+          "pointsAwarded": 4,
+          "transactionId": "tx_hw_2"
+        },
+        {
+          "studentId": "stu_103",
+          "studentName": "عبدالله القحطاني",
+          "quality": "many_errors",
+          "submittedOnTime": false,
+          "pointsAwarded": 1,
+          "transactionId": "tx_hw_3"
+        }
+      ]
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log_1792765782120_eoamy",
+      "teacherId": "teacher_osama_1",
+      "action": "تحديث حالة النشاط",
+      "details": "تم تعديل حالة نشاط «برق الصواب والخطأ: ثوابت العقيدة» إلى منشور",
+      "timestamp": "2026-10-23T14:29:42.120Z"
+    },
+    {
+      "id": "log_1792765772092_qwuxg",
+      "teacherId": "teacher_osama_1",
+      "action": "تحديث حالة النشاط",
+      "details": "تم تعديل حالة نشاط «برق الصواب والخطأ: ثوابت العقيدة» إلى متوقف مؤقتًا",
+      "timestamp": "2026-10-23T14:29:32.092Z"
+    },
+    {
+      "id": "log_1792765393478_nqbz0",
+      "teacherId": "teacher_osama_1",
+      "action": "بدء جلسة نشاط تفاعلي",
+      "details": "بدء لعبة «عجلة الأبطال الذكية لاختيار المتحدي» في أبطال الصف الخامس (أ)",
+      "timestamp": "2026-10-23T14:23:13.478Z"
+    },
+    {
+      "id": "log_1792765383957_y1w16",
+      "teacherId": "teacher_osama_1",
+      "action": "بدء جلسة نشاط تفاعلي",
+      "details": "بدء لعبة «برق الصواب والخطأ: ثوابت العقيدة» في أبطال الصف الخامس (أ)",
+      "timestamp": "2026-10-23T14:23:03.957Z"
+    },
+    {
+      "id": "log_1792765355661_h8na7",
+      "teacherId": "teacher_osama_1",
+      "action": "بدء جلسة نشاط تفاعلي",
+      "details": "بدء لعبة «برق الصواب والخطأ: ثوابت العقيدة» في أبطال الصف الخامس (أ)",
+      "timestamp": "2026-10-23T14:22:35.661Z"
+    },
+    {
+      "id": "log_1792763115890_zhz9o",
+      "teacherId": "teacher_osama_1",
+      "action": "بدء جلسة نشاط تفاعلي",
+      "details": "بدء لعبة «تحدي الاختيارات: أبطال العلوم والبيئة» في أبطال الصف الخامس (أ)",
+      "timestamp": "2026-10-23T13:45:15.890Z"
+    },
+    {
+      "id": "log_1792762251156_5e7dk",
+      "teacherId": "teacher_osama_1",
+      "action": "تغيير باقة الاشتراك",
+      "details": "تم تحديث باقة المعلم إلى (المعلم برو) لدورة (سنوية)",
+      "timestamp": "2026-10-23T13:30:51.156Z"
+    },
+    {
+      "id": "log_1792762235195_min5r",
+      "teacherId": "teacher_osama_1",
+      "action": "إنشاء فصل جديد",
+      "details": "تم إنشاء الفصل: Grade 6",
+      "timestamp": "2026-10-23T13:30:35.195Z"
+    },
+    {
+      "id": "log_1792762009990_fzz8c",
+      "teacherId": "teacher_osama_1",
+      "action": "رفض استبدال مكافأة",
+      "details": "تم رفض طلب اختيار اللغز القادم للطالب خالد العتيبي: عذرًا، غير متوفر حالياً",
+      "timestamp": "2026-10-23T13:26:49.990Z"
+    },
+    {
+      "id": "log_1792761938496_y1aez",
+      "teacherId": "teacher_1792761938495",
+      "action": "تسجيل حساب جديد",
+      "details": "تم تسجيل المعلم زياد علي الشهري",
+      "timestamp": "2026-10-23T13:25:38.496Z"
+    },
+    {
+      "id": "log_1",
+      "teacherId": "teacher_osama_1",
+      "action": "تهيئة النظام",
+      "details": "تم بدء عام دراسي جديد وتفعيل باقة المعلم بلس",
+      "timestamp": "2026-09-23T13:16:46.270Z"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "islamic_studies",
+      "name": "الدراسات الإسلامية",
+      "nameEn": "Islamic Studies",
+      "icon": "BookOpen",
+      "color": "emerald"
+    },
+    {
+      "id": "quran_sciences",
+      "name": "القرآن الكريم وعلومه",
+      "nameEn": "Holy Quran & Sciences",
+      "icon": "Sparkles",
+      "color": "emerald"
+    },
+    {
+      "id": "hadith_sirah",
+      "name": "الحديث والسيرة النبوية",
+      "nameEn": "Hadith & Seerah",
+      "icon": "HeartHandshake",
+      "color": "teal"
+    },
+    {
+      "id": "tawheed_aqeedah",
+      "name": "التوحيد والعقيدة",
+      "nameEn": "Tawheed & Creed",
+      "icon": "Shield",
+      "color": "cyan"
+    },
+    {
+      "id": "fiqh",
+      "name": "الفقه والسلوك",
+      "nameEn": "Fiqh & Etiquette",
+      "icon": "Scale",
+      "color": "blue"
+    },
+    {
+      "id": "tafseer",
+      "name": "التفسير",
+      "nameEn": "Quranic Exegesis",
+      "icon": "Compass",
+      "color": "sky"
+    },
+    {
+      "id": "arabic",
+      "name": "اللغة العربية (لغتي)",
+      "nameEn": "Arabic Language",
+      "icon": "Feather",
+      "color": "amber"
+    },
+    {
+      "id": "math",
+      "name": "الرياضيات",
+      "nameEn": "Mathematics",
+      "icon": "Calculator",
+      "color": "indigo"
+    },
+    {
+      "id": "science",
+      "name": "العلوم",
+      "nameEn": "Science",
+      "icon": "Atom",
+      "color": "purple"
+    },
+    {
+      "id": "social_studies",
+      "name": "الدراسات الاجتماعية",
+      "nameEn": "Social Studies & Geography",
+      "icon": "Globe",
+      "color": "orange"
+    },
+    {
+      "id": "english",
+      "name": "اللغة الإنجليزية (English)",
+      "nameEn": "English Language",
+      "icon": "Languages",
+      "color": "rose"
+    },
+    {
+      "id": "digital_skills",
+      "name": "المهارات الرقمية والتكنولوجيا",
+      "nameEn": "Digital Skills & Tech",
+      "icon": "Laptop",
+      "color": "violet"
+    }
+  ],
+  "grades": [
+    {
+      "id": "elem_1",
+      "stage": "elementary",
+      "name": "الصف الأول الابتدائي",
+      "nameEn": "1st Grade Elementary"
+    },
+    {
+      "id": "elem_2",
+      "stage": "elementary",
+      "name": "الصف الثاني الابتدائي",
+      "nameEn": "2nd Grade Elementary"
+    },
+    {
+      "id": "elem_3",
+      "stage": "elementary",
+      "name": "الصف الثالث الابتدائي",
+      "nameEn": "3rd Grade Elementary"
+    },
+    {
+      "id": "elem_4",
+      "stage": "elementary",
+      "name": "الصف الرابع الابتدائي",
+      "nameEn": "4th Grade Elementary"
+    },
+    {
+      "id": "elem_5",
+      "stage": "elementary",
+      "name": "الصف الخامس الابتدائي",
+      "nameEn": "5th Grade Elementary"
+    },
+    {
+      "id": "elem_6",
+      "stage": "elementary",
+      "name": "الصف السادس الابتدائي",
+      "nameEn": "6th Grade Elementary"
+    },
+    {
+      "id": "mid_1",
+      "stage": "middle",
+      "name": "الصف الأول المتوسط",
+      "nameEn": "1st Grade Middle"
+    },
+    {
+      "id": "mid_2",
+      "stage": "middle",
+      "name": "الصف الثاني المتوسط",
+      "nameEn": "2nd Grade Middle"
+    },
+    {
+      "id": "mid_3",
+      "stage": "middle",
+      "name": "الصف الثالث المتوسط",
+      "nameEn": "3rd Grade Middle"
+    },
+    {
+      "id": "high_1",
+      "stage": "high",
+      "name": "السنة الأولى المشتركة (ثانوي)",
+      "nameEn": "1st Year Secondary (Common)"
+    },
+    {
+      "id": "high_general",
+      "stage": "high",
+      "name": "المسار العام (ثانوي)",
+      "nameEn": "General Track Secondary"
+    },
+    {
+      "id": "high_cs",
+      "stage": "high",
+      "name": "مسار علوم الحاسب والهندسة (ثانوي)",
+      "nameEn": "CS & Engineering Track"
+    },
+    {
+      "id": "high_health",
+      "stage": "high",
+      "name": "مسار الصحة والحياة (ثانوي)",
+      "nameEn": "Health & Life Sciences Track"
+    },
+    {
+      "id": "high_business",
+      "stage": "high",
+      "name": "مسار إدارة الأعمال (ثانوي)",
+      "nameEn": "Business Administration Track"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "les_islamic_1",
+      "subjectId": "islamic_studies",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "unitName": "الوحدة الأولى: أركان الإيمان",
+      "lessonTitle": "الإيمان بالله وملائكته وكتبه ورسله",
+      "sourceReference": "كتاب الدراسات الإسلامية صفحة 14",
+      "rawContent": "أركان الإيمان ستة: الإيمان بالله، وملائكته، وكتبه، ورسله، واليوم الآخر، وبالقدر خيره وشره."
+    },
+    {
+      "id": "les_arabic_1",
+      "subjectId": "arabic",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "unitName": "الوحدة الثانية: البيئة والصحة",
+      "lessonTitle": "الفاعل والمفعول به وعلامات الإعراب",
+      "sourceReference": "كتاب لغتي الجميلة صفحة 45",
+      "rawContent": "الجملة الفعلية تتكون من فعل وفاعل ومفعول به. الفاعل مرفوع وعلامة رفعه الضمة للفاعل المفرد، والمفعول به منصوب وعلامة نصبه الفتحة."
+    },
+    {
+      "id": "les_math_1",
+      "subjectId": "math",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "unitName": "الوحدة الثالثة: الضرب والقسمة",
+      "lessonTitle": "ضرب الأعداد وخصائص العمليات الحسابية",
+      "sourceReference": "كتاب الرياضيات صفحة 62",
+      "rawContent": "خاصية الإبدال في الضرب: أ × ب = ب × أ. والعنصر المحايد الضربي هو الرقم 1، وخاصية الضرب في صفر تعطي صفرًا دائمًا."
+    },
+    {
+      "id": "les_science_1",
+      "subjectId": "science",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "unitName": "الوحدة الأولى: تنوع الحياة",
+      "lessonTitle": "تصنيف المخلوقات الحية والنباتات",
+      "sourceReference": "كتاب العلوم صفحة 28",
+      "rawContent": "المخلوقات الحية تُصنف إلى ممالك رئيسية: مملكة الحيوانات ومملكة النباتات ومملكة الفطريات. النباتات تصنع غذاءها بنفسها بواسطة البناء الضوئي."
+    },
+    {
+      "id": "les_social_1",
+      "subjectId": "social_studies",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "unitName": "الوحدة الأولى: وطني المملكة العربية السعودية",
+      "lessonTitle": "توحيد المملكة وجهود الملك عبد العزيز رحمه الله",
+      "sourceReference": "كتاب الدراسات الاجتماعية صفحة 12",
+      "rawContent": "أعلن الملك عبد العزيز بن عبد الرحمن آل سعود توحيد المملكة العربية السعودية عام 1351 هـ الموافق 1932 م، وعاصمتها الرياض."
+    },
+    {
+      "id": "les_digital_1",
+      "subjectId": "digital_skills",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "unitName": "الوحدة الأولى: المهارات الرقمية وأمان الإنترنت",
+      "lessonTitle": "كلمات المرور القوية والأمن السيبراني للأطفال",
+      "sourceReference": "كتاب المهارات الرقمية صفحة 19",
+      "rawContent": "كلمة المرور القوية تتكون من حروف كبيرة وصغيرة وأرقام ورموز خاصة وتتجاوز 8 خانات. لا تشارك كلمة مرورك مع أي شخص."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_1",
+      "teacherId": "teacher_osama_1",
+      "subjectId": "science",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "unitName": "تنوع الحياة",
+      "lessonTitle": "تصنيف المخلوقات الحية",
+      "difficulty": "easy",
+      "type": "multiple_choice",
+      "questionText": "ما هي العملية الحيوية التي يصنع بها النبات الأخضر غذاءه مستخدمًا ضوء الشمس والماء وثاني أكسيد الكربون؟",
+      "options": [
+        "البناء الضوئي",
+        "التنفس الخلوي",
+        "التحلل الغذائي",
+        "التبخر السطحي"
+      ],
+      "correctAnswer": "البناء الضوئي",
+      "explanation": "تقوم صبغة الكلوروفيل في أوراق النبات بامتصاص الطاقة الضوئية لإتمام عملية البناء الضوئي وصنع سكر الجلوكوز.",
+      "suggestedPoints": 1,
+      "sourceReference": "كتاب العلوم للصف الخامس ص 30",
+      "status": "approved",
+      "isFavorite": true,
+      "createdAt": "2026-10-23T13:44:24.724Z",
+      "authorName": "المعلم أسامة الشهري"
+    },
+    {
+      "id": "q_2",
+      "teacherId": "teacher_osama_1",
+      "subjectId": "islamic_studies",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "unitName": "أركان الإيمان",
+      "lessonTitle": "الإيمان بالملائكة",
+      "difficulty": "easy",
+      "type": "true_false",
+      "questionText": "جبريل عليه السلام هو الملك الموكل بإنزال الوحي على الأنبياء والرسل عليهم الصلاة والسلام.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "correctAnswer": "صح",
+      "explanation": "نعم، جبريل عليه السلام هو الروح الأمين الموكل بالوحي من الله تعالى لجميع الأنبياء والرسل.",
+      "suggestedPoints": 1,
+      "sourceReference": "كتاب الدراسات الإسلامية - التوحيد ص 18",
+      "status": "approved",
+      "isFavorite": true,
+      "createdAt": "2026-10-23T13:44:24.724Z",
+      "authorName": "المعلم أسامة الشهري"
+    },
+    {
+      "id": "q_4",
+      "teacherId": "teacher_osama_1",
+      "subjectId": "social_studies",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "unitName": "وطني المملكة العربية السعودية",
+      "lessonTitle": "توحيد المملكة",
+      "difficulty": "medium",
+      "type": "who_am_i",
+      "questionText": "خمّن من أكون من خلال التلميحات المتدرجة التالية:",
+      "hints": [
+        "التلميح الأول: قائد فذ ومؤسس تاريخي ولد في الرياض.",
+        "التلميح الثاني: استرد مدينة الرياض عام 1319 هـ وقاد مسيرة التوحيد لثلاثة عقود.",
+        "التلميح الثالث: أعلن توحيد المملكة العربية السعودية عام 1351 هـ ولقب بصقر الجزيرة."
+      ],
+      "correctAnswer": "الملك عبد العزيز آل سعود",
+      "alternativeAnswers": [
+        "الملك عبد العزيز",
+        "الملك عبدالعزيز",
+        "الملك عبدالعزيز آل سعود"
+      ],
+      "explanation": "هو الملك المؤسس عبد العزيز بن عبد الرحمن آل سعود رحمه الله، موحد الجزيرة العربية وباني نهضتها الأولى.",
+      "suggestedPoints": 2,
+      "sourceReference": "كتاب الدراسات الاجتماعية ص 14",
+      "status": "approved",
+      "isFavorite": true,
+      "createdAt": "2026-10-23T13:44:24.724Z",
+      "authorName": "المعلم أسامة الشهري"
+    },
+    {
+      "id": "q_7",
+      "teacherId": "teacher_osama_1",
+      "subjectId": "math",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "unitName": "الألغاز والتفكير المنطقي",
+      "lessonTitle": "ألغاز الأعداد الذكية",
+      "difficulty": "hard",
+      "type": "puzzle",
+      "questionText": "عدد إذا ضربته في نفسه وأضفت إليه 5 كان الناتج 30، وإذا طرحت منه 2 أصبح الناتج 3. فما هو هذا العدد؟",
+      "correctAnswer": "5",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "explanation": "العدد هو 5: لأن (5 × 5) + 5 = 25 + 5 = 30. وكذلك 5 - 2 = 3.",
+      "suggestedPoints": 10,
+      "sourceReference": "بنك الألغاز الذكية - إعداد أسامة الشهري",
+      "status": "approved",
+      "isFavorite": true,
+      "createdAt": "2026-10-23T13:44:24.724Z",
+      "authorName": "المعلم أسامة الشهري"
+    },
+    {
+      "id": "q_3",
+      "teacherId": "teacher_osama_1",
+      "subjectId": "math",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "unitName": "الضرب والقسمة",
+      "lessonTitle": "خصائص العمليات الحسابية",
+      "difficulty": "medium",
+      "type": "fill_blank",
+      "questionText": "يُسمى العدد 1 في عملية الضرب بـ: [الفراغ]",
+      "correctAnswer": "العنصر المحايد الضربي",
+      "alternativeAnswers": [
+        "المحايد الضربي",
+        "العنصر المحايد"
+      ],
+      "explanation": "العنصر المحايد الضربي هو الرقم 1؛ لأن ضرب أي عدد في 1 يعطي نفس العدد دون تغيير (أ × 1 = أ).",
+      "suggestedPoints": 2,
+      "sourceReference": "كتاب الرياضيات للصف الخامس ص 64",
+      "status": "approved",
+      "createdAt": "2026-10-23T13:44:24.724Z",
+      "authorName": "المعلم أسامة الشهري"
+    },
+    {
+      "id": "q_5",
+      "teacherId": "teacher_osama_1",
+      "subjectId": "digital_skills",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "unitName": "أمان الإنترنت والبرمجيات",
+      "lessonTitle": "المصطلحات التقنية الأساسية",
+      "difficulty": "medium",
+      "type": "matching",
+      "questionText": "طابق بين المصطلح الرقمي والتعريف المناسب له:",
+      "matchingPairs": [
+        {
+          "left": "المعالج (CPU)",
+          "right": "عقل الحاسوب الذي ينفذ العمليات الحسابية والمنطقية"
+        },
+        {
+          "left": "ذاكرة الوصول العشوائي (RAM)",
+          "right": "ذاكرة مؤقتة تفقد محتوياتها عند انقطاع الكهرباء"
+        },
+        {
+          "left": "القرص الصلب (Hard Disk)",
+          "right": "وحدة التخزين الدائمة لحفظ الملفات والبرامج"
+        },
+        {
+          "left": "جدار الحماية (Firewall)",
+          "right": "نظام أمني يحمي الحاسوب من الاختراق والبرمجيات الخبيثة"
+        }
+      ],
+      "correctAnswer": "matching_completed",
+      "explanation": "تكامل مكونات الحاسوب المادية (Hardware) والبرمجية (Software) يضمن عمل الجهاز بأمان وسرعة.",
+      "suggestedPoints": 2,
+      "sourceReference": "كتاب المهارات الرقمية ص 22",
+      "status": "approved",
+      "createdAt": "2026-10-23T13:44:24.724Z",
+      "authorName": "المعلم أسامة الشهري"
+    },
+    {
+      "id": "q_6",
+      "teacherId": "teacher_osama_1",
+      "subjectId": "science",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "unitName": "دورة حياة الكائنات الحية",
+      "lessonTitle": "مراحل التحول الكامل في الفراشة",
+      "difficulty": "medium",
+      "type": "ordering",
+      "questionText": "رتّب مراحل دورة حياة الفراشة بالترتيب الصحيح:",
+      "orderingItems": [
+        "البيضة",
+        "اليرقة (الدودة)",
+        "العذراء (الشرنقة)",
+        "الفراشة البالغة"
+      ],
+      "correctAnswer": "البيضة,اليرقة (الدودة),العذراء (الشرنقة),الفراشة البالغة",
+      "explanation": "التحول الكامل يبدأ بالبيضة، ثم تفقس إلى يرقة تتغذى بنشاط، ثم تتحول إلى عذراء داخل شرنقة، ثم تخرج فراشة كاملة النمو.",
+      "suggestedPoints": 2,
+      "sourceReference": "كتاب العلوم ص 48",
+      "status": "approved",
+      "createdAt": "2026-10-23T13:44:24.724Z",
+      "authorName": "المعلم أسامة الشهري"
+    },
+    {
+      "id": "q_8",
+      "teacherId": "teacher_osama_1",
+      "subjectId": "arabic",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "unitName": "الجملة الفعلية",
+      "lessonTitle": "الفاعل والمفعول به",
+      "difficulty": "easy",
+      "type": "multiple_choice",
+      "questionText": "في جملة «شَرَحَ المُعَلِّمُ الدَّرْسَ بِإِتْقَانٍ»، ما هو إعراب كلمة «المُعَلِّمُ»؟",
+      "options": [
+        "فاعل مرفوع وعلامة رفعه الضمة الظاهرة",
+        "مفعول به منصوب وعلامة نصبه الفتحة",
+        "مبتدأ مرفوع وعلامة رفعه الضمة",
+        "اسم مجرور بالكسرة"
+      ],
+      "correctAnswer": "فاعل مرفوع وعلامة رفعه الضمة الظاهرة",
+      "explanation": "المعلم هو من قام بفعل الشرح، والفاعل في اللغة العربية مرفوع دائمًا.",
+      "suggestedPoints": 1,
+      "sourceReference": "كتاب لغتي الجميلة ص 50",
+      "status": "approved",
+      "createdAt": "2026-10-23T13:44:24.724Z",
+      "authorName": "المعلم أسامة الشهري"
+    },
+    {
+      "id": "q_9",
+      "teacherId": "teacher_osama_1",
+      "subjectId": "english",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "unitName": "Smart Animals & Nature",
+      "lessonTitle": "Vocabulary & Describing Animals",
+      "difficulty": "easy",
+      "type": "multiple_choice",
+      "questionText": "Choose the correct word: The cheetah is the ______ land animal in the world.",
+      "options": [
+        "fastest",
+        "slowest",
+        "heaviest",
+        "smallest"
+      ],
+      "correctAnswer": "fastest",
+      "explanation": "The cheetah can run up to 120 km/h, making it the fastest land animal on Earth.",
+      "suggestedPoints": 1,
+      "sourceReference": "English We Can 5, Unit 2",
+      "status": "approved",
+      "createdAt": "2026-10-23T13:44:24.724Z",
+      "authorName": "المعلم أسامة الشهري"
+    }
+  ],
+  "activities": [
+    {
+      "id": "act_choice_challenge",
+      "teacherId": "teacher_osama_1",
+      "title": "تحدي الاختيارات: أبطال العلوم والبيئة",
+      "titleEn": "Multiple Choice Challenge: Science Heroes",
+      "gameType": "multiple_choice_challenge",
+      "subjectId": "science",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "lessonTitle": "تصنيف المخلوقات الحية والبناء الضوئي",
+      "difficulty": "easy",
+      "questionIds": [
+        "q_1",
+        "q_8",
+        "q_9"
+      ],
+      "questionsCount": 3,
+      "timeLimitSeconds": 30,
+      "showAnswerInstantly": true,
+      "allowRetry": false,
+      "isTeamMode": false,
+      "pointsMode": "automatic",
+      "isArchived": false,
+      "createdAt": "2026-10-23T13:44:24.724Z"
+    },
+    {
+      "id": "act_true_false",
+      "teacherId": "teacher_osama_1",
+      "title": "برق الصواب والخطأ: ثوابت العقيدة",
+      "titleEn": "True/False Blitz: Core Faith",
+      "gameType": "true_false_blitz",
+      "subjectId": "islamic_studies",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "lessonTitle": "أركان الإيمان والملائكة",
+      "difficulty": "easy",
+      "questionIds": [
+        "q_2"
+      ],
+      "questionsCount": 1,
+      "timeLimitSeconds": 15,
+      "showAnswerInstantly": true,
+      "allowRetry": false,
+      "isTeamMode": false,
+      "pointsMode": "automatic",
+      "isArchived": false,
+      "createdAt": "2026-10-23T13:44:24.724Z",
+      "status": "published"
+    },
+    {
+      "id": "act_lucky_wheel",
+      "teacherId": "teacher_osama_1",
+      "title": "عجلة الأبطال الذكية لاختيار المتحدي",
+      "titleEn": "Lucky Hero Wheel",
+      "gameType": "lucky_wheel",
+      "subjectId": "science",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "lessonTitle": "أسئلة وتحديات التفكير الصفي",
+      "difficulty": "medium",
+      "questionIds": [
+        "q_1",
+        "q_2",
+        "q_3",
+        "q_4",
+        "q_8"
+      ],
+      "questionsCount": 5,
+      "timeLimitSeconds": 45,
+      "showAnswerInstantly": true,
+      "allowRetry": true,
+      "isTeamMode": false,
+      "pointsMode": "teacher_approved",
+      "isArchived": false,
+      "createdAt": "2026-10-23T13:44:24.724Z"
+    },
+    {
+      "id": "act_who_am_i",
+      "teacherId": "teacher_osama_1",
+      "title": "تحدي العباقرة: من أنا؟ (شخصيات وطنية)",
+      "titleEn": "Who Am I? (National Figures)",
+      "gameType": "who_am_i",
+      "subjectId": "social_studies",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "lessonTitle": "توحيد المملكة وصقر الجزيرة",
+      "difficulty": "medium",
+      "questionIds": [
+        "q_4"
+      ],
+      "questionsCount": 1,
+      "timeLimitSeconds": 60,
+      "showAnswerInstantly": true,
+      "allowRetry": false,
+      "isTeamMode": false,
+      "pointsMode": "automatic",
+      "isArchived": false,
+      "createdAt": "2026-10-23T13:44:24.724Z"
+    },
+    {
+      "id": "act_match_pairs",
+      "teacherId": "teacher_osama_1",
+      "title": "طابق بطاقات التقنية والمهارات الرقمية",
+      "titleEn": "Match Pairs: Tech Terms",
+      "gameType": "match_pairs",
+      "subjectId": "digital_skills",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "lessonTitle": "أمان الإنترنت ومكونات الحاسب",
+      "difficulty": "medium",
+      "questionIds": [
+        "q_5"
+      ],
+      "questionsCount": 1,
+      "timeLimitSeconds": 90,
+      "showAnswerInstantly": true,
+      "allowRetry": true,
+      "isTeamMode": false,
+      "pointsMode": "automatic",
+      "isArchived": false,
+      "createdAt": "2026-10-23T13:44:24.724Z"
+    },
+    {
+      "id": "act_card_ordering",
+      "teacherId": "teacher_osama_1",
+      "title": "ترتيب الخطوات: دورات الحياة الطبيعية",
+      "titleEn": "Card Ordering: Life Cycles",
+      "gameType": "card_ordering",
+      "subjectId": "science",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "lessonTitle": "دورة حياة الفراشة والتحول",
+      "difficulty": "medium",
+      "questionIds": [
+        "q_6"
+      ],
+      "questionsCount": 1,
+      "timeLimitSeconds": 60,
+      "showAnswerInstantly": true,
+      "allowRetry": true,
+      "isTeamMode": false,
+      "pointsMode": "automatic",
+      "isArchived": false,
+      "createdAt": "2026-10-23T13:44:24.724Z"
+    },
+    {
+      "id": "act_puzzle_day",
+      "teacherId": "teacher_osama_1",
+      "title": "لغز اليوم الذهبي: عبقري الأرقام",
+      "titleEn": "Puzzle of the Day: Math Genius",
+      "gameType": "puzzle_of_day",
+      "subjectId": "math",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "lessonTitle": "تحدي التفكير الرياضي",
+      "difficulty": "hard",
+      "questionIds": [
+        "q_7"
+      ],
+      "questionsCount": 1,
+      "timeLimitSeconds": 120,
+      "showAnswerInstantly": false,
+      "allowRetry": false,
+      "isTeamMode": false,
+      "pointsMode": "automatic",
+      "isArchived": false,
+      "createdAt": "2026-10-23T13:44:24.724Z"
+    },
+    {
+      "id": "act_treasure_hunt",
+      "teacherId": "teacher_osama_1",
+      "title": "مغامرة الكنز التعليمي: أبواب الحكمة",
+      "titleEn": "Educational Treasure Hunt",
+      "gameType": "treasure_hunt",
+      "subjectId": "science",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "lessonTitle": "محطات متدرجة لاكتشاف الكنز الصفي",
+      "difficulty": "medium",
+      "questionIds": [
+        "q_1",
+        "q_2",
+        "q_3",
+        "q_8"
+      ],
+      "questionsCount": 4,
+      "timeLimitSeconds": 45,
+      "showAnswerInstantly": true,
+      "allowRetry": false,
+      "isTeamMode": false,
+      "pointsMode": "automatic",
+      "isArchived": false,
+      "createdAt": "2026-10-23T13:44:24.724Z"
+    },
+    {
+      "id": "act_team_challenge",
+      "teacherId": "teacher_osama_1",
+      "title": "التحدي الجماعي بين أبطال الفرق",
+      "titleEn": "Classroom Team Challenge",
+      "gameType": "team_challenge",
+      "subjectId": "arabic",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "lessonTitle": "المنافسة الكبرى في لغتي الجميلة",
+      "difficulty": "medium",
+      "questionIds": [
+        "q_8",
+        "q_1",
+        "q_4",
+        "q_3"
+      ],
+      "questionsCount": 4,
+      "timeLimitSeconds": 40,
+      "showAnswerInstantly": true,
+      "allowRetry": false,
+      "isTeamMode": true,
+      "pointsMode": "automatic",
+      "isArchived": false,
+      "createdAt": "2026-10-23T13:44:24.724Z"
+    },
+    {
+      "id": "act_speed_race",
+      "teacherId": "teacher_osama_1",
+      "title": "سباق الإجابات الصاروخي",
+      "titleEn": "Speed Answer Race",
+      "gameType": "speed_race",
+      "subjectId": "math",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "lessonTitle": "سباق دقة الحساب وسرعة البديهة",
+      "difficulty": "medium",
+      "questionIds": [
+        "q_3",
+        "q_7",
+        "q_1"
+      ],
+      "questionsCount": 3,
+      "timeLimitSeconds": 20,
+      "showAnswerInstantly": true,
+      "allowRetry": false,
+      "isTeamMode": false,
+      "pointsMode": "automatic",
+      "isArchived": false,
+      "createdAt": "2026-10-23T13:44:24.724Z"
+    },
+    {
+      "id": "act_who_is_fastest",
+      "teacherId": "teacher_osama_1",
+      "title": "من الأسرع في الإجابة؟",
+      "titleEn": "Who is Fastest?",
+      "gameType": "who_is_fastest",
+      "subjectId": "social_studies",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "lessonTitle": "تحدي السرعة والدقة الجغرافية",
+      "difficulty": "medium",
+      "questionIds": [
+        "q_4",
+        "q_1"
+      ],
+      "questionsCount": 2,
+      "timeLimitSeconds": 15,
+      "showAnswerInstantly": true,
+      "allowRetry": false,
+      "isTeamMode": false,
+      "pointsMode": "automatic",
+      "isArchived": false,
+      "createdAt": "2026-10-23T13:44:24.724Z"
+    },
+    {
+      "id": "act_fill_blank",
+      "teacherId": "teacher_osama_1",
+      "title": "تحدي أكمل الفراغ بالكلمة المناسبة",
+      "titleEn": "Fill in the Blank Challenge",
+      "gameType": "fill_blank",
+      "subjectId": "math",
+      "gradeId": "elem_5",
+      "termId": "term_1",
+      "lessonTitle": "المصطلحات الرياضية والخصائص الحسابية",
+      "difficulty": "medium",
+      "questionIds": [
+        "q_3"
+      ],
+      "questionsCount": 1,
+      "timeLimitSeconds": 45,
+      "showAnswerInstantly": true,
+      "allowRetry": true,
+      "isTeamMode": false,
+      "pointsMode": "automatic",
+      "isArchived": false,
+      "createdAt": "2026-10-23T13:44:24.724Z"
+    }
+  ],
+  "gameSessions": [
+    {
+      "id": "sess_1792765393476_ai3n",
+      "activityId": "act_lucky_wheel",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "gameType": "lucky_wheel",
+      "title": "عجلة الأبطال الذكية لاختيار المتحدي",
+      "subjectId": "science",
+      "status": "active",
+      "startedAt": "2026-10-23T14:23:13.476Z",
+      "currentQuestionIndex": 0,
+      "totalQuestions": 5,
+      "participants": [
+        {
+          "studentId": "stu_101",
+          "studentName": "خالد العتيبي",
+          "answers": [
+            {
+              "questionId": "q_1",
+              "answered": "البناء الضوئي",
+              "isCorrect": true,
+              "timeSeconds": 3,
+              "pointsEarned": 1
+            },
+            {
+              "questionId": "q_2",
+              "answered": "صح",
+              "isCorrect": true,
+              "timeSeconds": 2,
+              "pointsEarned": 1
+            }
+          ],
+          "totalScore": 2,
+          "totalTimeSeconds": 5
+        },
+        {
+          "studentId": "stu_102",
+          "studentName": "فهد الشمري",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_103",
+          "studentName": "عبدالله القحطاني",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_104",
+          "studentName": "عمر الغامدي",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_105",
+          "studentName": "سلمان الدوسري",
+          "answers": [
+            {
+              "questionId": "q_4",
+              "answered": "",
+              "isCorrect": false,
+              "timeSeconds": 6,
+              "pointsEarned": 0
+            }
+          ],
+          "totalScore": 0,
+          "totalTimeSeconds": 6
+        },
+        {
+          "studentId": "stu_106",
+          "studentName": "سعود الحربي",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_107",
+          "studentName": "عبدالعزيز الشهري",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_108",
+          "studentName": "محمد المطيري",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        }
+      ],
+      "pointsAwarded": false
+    },
+    {
+      "id": "sess_1792765383956_unu7",
+      "activityId": "act_true_false",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "gameType": "true_false_blitz",
+      "title": "برق الصواب والخطأ: ثوابت العقيدة",
+      "subjectId": "islamic_studies",
+      "status": "active",
+      "startedAt": "2026-10-23T14:23:03.956Z",
+      "currentQuestionIndex": 0,
+      "totalQuestions": 1,
+      "participants": [
+        {
+          "studentId": "stu_101",
+          "studentName": "خالد العتيبي",
+          "answers": [
+            {
+              "questionId": "q_2",
+              "answered": "خطأ",
+              "timeSeconds": 3,
+              "pointsEarned": 0
+            }
+          ],
+          "totalScore": 0,
+          "totalTimeSeconds": 3
+        },
+        {
+          "studentId": "stu_102",
+          "studentName": "فهد الشمري",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_103",
+          "studentName": "عبدالله القحطاني",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_104",
+          "studentName": "عمر الغامدي",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_105",
+          "studentName": "سلمان الدوسري",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_106",
+          "studentName": "سعود الحربي",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_107",
+          "studentName": "عبدالعزيز الشهري",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_108",
+          "studentName": "محمد المطيري",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        }
+      ],
+      "pointsAwarded": false
+    },
+    {
+      "id": "sess_1792765355660_3e6x",
+      "activityId": "act_true_false",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "gameType": "true_false_blitz",
+      "title": "برق الصواب والخطأ: ثوابت العقيدة",
+      "subjectId": "islamic_studies",
+      "status": "active",
+      "startedAt": "2026-10-23T14:22:35.660Z",
+      "currentQuestionIndex": 0,
+      "totalQuestions": 1,
+      "participants": [
+        {
+          "studentId": "stu_101",
+          "studentName": "خالد العتيبي",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_102",
+          "studentName": "فهد الشمري",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_103",
+          "studentName": "عبدالله القحطاني",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_104",
+          "studentName": "عمر الغامدي",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_105",
+          "studentName": "سلمان الدوسري",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_106",
+          "studentName": "سعود الحربي",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_107",
+          "studentName": "عبدالعزيز الشهري",
+          "answers": [
+            {
+              "questionId": "q_2",
+              "answered": "صح",
+              "isCorrect": true,
+              "timeSeconds": 13,
+              "pointsEarned": 1
+            }
+          ],
+          "totalScore": 1,
+          "totalTimeSeconds": 13
+        },
+        {
+          "studentId": "stu_108",
+          "studentName": "محمد المطيري",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        }
+      ],
+      "pointsAwarded": false
+    },
+    {
+      "id": "sess_1792763115889_vmbl",
+      "activityId": "act_choice_challenge",
+      "teacherId": "teacher_osama_1",
+      "classId": "class_5a",
+      "gameType": "multiple_choice_challenge",
+      "title": "تحدي الاختيارات: أبطال العلوم والبيئة",
+      "subjectId": "science",
+      "status": "active",
+      "startedAt": "2026-10-23T13:45:15.889Z",
+      "currentQuestionIndex": 0,
+      "totalQuestions": 3,
+      "participants": [
+        {
+          "studentId": "stu_101",
+          "studentName": "خالد العتيبي",
+          "answers": [
+            {
+              "questionId": "q_1",
+              "answered": "البناء الضوئي",
+              "isCorrect": true,
+              "timeSeconds": 16,
+              "pointsEarned": 1
+            }
+          ],
+          "totalScore": 1,
+          "totalTimeSeconds": 16
+        },
+        {
+          "studentId": "stu_102",
+          "studentName": "فهد الشمري",
+          "answers": [
+            {
+              "questionId": "q_8",
+              "answered": "فاعل مرفوع وعلامة رفعه الضمة الظاهرة",
+              "isCorrect": true,
+              "timeSeconds": 15,
+              "pointsEarned": 1
+            }
+          ],
+          "totalScore": 1,
+          "totalTimeSeconds": 15
+        },
+        {
+          "studentId": "stu_103",
+          "studentName": "عبدالله القحطاني",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_104",
+          "studentName": "عمر الغامدي",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_105",
+          "studentName": "سلمان الدوسري",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_106",
+          "studentName": "سعود الحربي",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_107",
+          "studentName": "عبدالعزيز الشهري",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        },
+        {
+          "studentId": "stu_108",
+          "studentName": "محمد المطيري",
+          "answers": [],
+          "totalScore": 0,
+          "totalTimeSeconds": 0
+        }
+      ],
+      "pointsAwarded": false
+    }
+  ],
+  "books": [
+    {
+      "id": "book_elem5_sci",
+      "stage": "elementary",
+      "gradeId": "elem_5",
+      "gradeName": "الصف الخامس الابتدائي",
+      "subjectId": "science",
+      "subjectName": "العلوم",
+      "termId": "term_1",
+      "termName": "الفصل الدراسي الأول",
+      "title": "كتاب العلوم — الصف الخامس الابتدائي",
+      "editionYear": "طبعة 1446-1447هـ المعتمدة",
+      "sourcePlatform": "ain_national",
+      "sourcePlatformName": "بوابة عين الوطنية للتعليم",
+      "pdfUrl": "https://ien.edu.sa",
+      "fileName": "science_grade5_t1_1446.pdf",
+      "fileSizeBytes": 14250000,
+      "uploadedAt": "2026-09-01T08:00:00.000Z",
+      "verified": true,
+      "unitsCount": 4,
+      "lessonsCount": 12
+    },
+    {
+      "id": "book_elem5_arb",
+      "stage": "elementary",
+      "gradeId": "elem_5",
+      "gradeName": "الصف الخامس الابتدائي",
+      "subjectId": "arabic",
+      "subjectName": "اللغة العربية (لغتي)",
+      "termId": "term_1",
+      "termName": "الفصل الدراسي الأول",
+      "title": "كتاب لغتي الجميلة — الصف الخامس الابتدائي",
+      "editionYear": "طبعة 1446-1447هـ المعتمدة",
+      "sourcePlatform": "manhaji",
+      "sourcePlatformName": "منصة منهجي المعتمدة",
+      "pdfUrl": "https://ien.edu.sa",
+      "fileName": "lughati_grade5_t1_1446.pdf",
+      "fileSizeBytes": 18400000,
+      "uploadedAt": "2026-09-01T08:00:00.000Z",
+      "verified": true,
+      "unitsCount": 3,
+      "lessonsCount": 9
+    },
+    {
+      "id": "book_elem5_isl",
+      "stage": "elementary",
+      "gradeId": "elem_5",
+      "gradeName": "الصف الخامس الابتدائي",
+      "subjectId": "islamic_studies",
+      "subjectName": "الدراسات الإسلامية",
+      "termId": "term_1",
+      "termName": "الفصل الدراسي الأول",
+      "title": "كتاب الدراسات الإسلامية — الصف الخامس الابتدائي",
+      "editionYear": "طبعة 1446-1447هـ المعتمدة",
+      "sourcePlatform": "ain_national",
+      "sourcePlatformName": "بوابة عين الوطنية للتعليم",
+      "pdfUrl": "https://ien.edu.sa",
+      "fileName": "islamic_grade5_t1_1446.pdf",
+      "fileSizeBytes": 16800000,
+      "uploadedAt": "2026-09-01T08:00:00.000Z",
+      "verified": true,
+      "unitsCount": 4,
+      "lessonsCount": 14
+    },
+    {
+      "id": "book_elem5_math",
+      "stage": "elementary",
+      "gradeId": "elem_5",
+      "gradeName": "الصف الخامس الابتدائي",
+      "subjectId": "math",
+      "subjectName": "الرياضيات",
+      "termId": "term_1",
+      "termName": "الفصل الدراسي الأول",
+      "title": "كتاب الرياضيات — الصف الخامس الابتدائي",
+      "editionYear": "طبعة 1446-1447هـ المعتمدة",
+      "sourcePlatform": "kutobi",
+      "sourcePlatformName": "منصة كتبي المدرسية",
+      "pdfUrl": "https://ien.edu.sa",
+      "fileName": "math_grade5_t1_1446.pdf",
+      "fileSizeBytes": 21300000,
+      "uploadedAt": "2026-09-01T08:00:00.000Z",
+      "verified": true,
+      "unitsCount": 5,
+      "lessonsCount": 15
+    },
+    {
+      "id": "book_mid2_sci",
+      "stage": "middle",
+      "gradeId": "mid_2",
+      "gradeName": "الصف الثاني المتوسط",
+      "subjectId": "science",
+      "subjectName": "العلوم",
+      "termId": "term_1",
+      "termName": "الفصل الدراسي الأول",
+      "title": "كتاب العلوم — الصف الثاني المتوسط",
+      "editionYear": "طبعة 1446-1447هـ المعتمدة",
+      "sourcePlatform": "ain_national",
+      "sourcePlatformName": "بوابة عين الوطنية للتعليم",
+      "pdfUrl": "https://ien.edu.sa",
+      "fileName": "science_middle2_t1_1446.pdf",
+      "fileSizeBytes": 22100000,
+      "uploadedAt": "2026-09-01T08:00:00.000Z",
+      "verified": true,
+      "unitsCount": 4,
+      "lessonsCount": 12
+    },
+    {
+      "id": "book_mid2_digital",
+      "stage": "middle",
+      "gradeId": "mid_2",
+      "gradeName": "الصف الثاني المتوسط",
+      "subjectId": "digital_skills",
+      "subjectName": "المهارات الرقمية والتكنولوجيا",
+      "termId": "term_1",
+      "termName": "الفصل الدراسي الأول",
+      "title": "كتاب المهارات الرقمية — المرحلة المتوسطة",
+      "editionYear": "طبعة 1446-1447هـ المعتمدة",
+      "sourcePlatform": "manhaji",
+      "sourcePlatformName": "منصة منهجي المعتمدة",
+      "pdfUrl": "https://ien.edu.sa",
+      "fileName": "digital_middle2_t1_1446.pdf",
+      "fileSizeBytes": 19500000,
+      "uploadedAt": "2026-09-01T08:00:00.000Z",
+      "verified": true,
+      "unitsCount": 3,
+      "lessonsCount": 8
+    },
+    {
+      "id": "book_high1_tech",
+      "stage": "high",
+      "gradeId": "high_1",
+      "gradeName": "السنة الأولى المشتركة (ثانوي)",
+      "subjectId": "digital_skills",
+      "subjectName": "علم البيانات والذكاء الاصطناعي",
+      "termId": "term_1",
+      "termName": "الفصل الدراسي الأول",
+      "title": "كتاب التقنية الرقمية 1-1 — مسارات الثانوي",
+      "editionYear": "طبعة 1446-1447هـ المعتمدة",
+      "sourcePlatform": "ain_national",
+      "sourcePlatformName": "بوابة عين الوطنية للتعليم",
+      "pdfUrl": "https://ien.edu.sa",
+      "fileName": "tech_secondary1_1446.pdf",
+      "fileSizeBytes": 24500000,
+      "uploadedAt": "2026-09-01T08:00:00.000Z",
+      "verified": true,
+      "unitsCount": 4,
+      "lessonsCount": 10
+    },
+    {
+      "id": "book_high_cs_python",
+      "stage": "high",
+      "gradeId": "high_cs",
+      "gradeName": "مسار علوم الحاسب والهندسة (ثانوي)",
+      "subjectId": "digital_skills",
+      "subjectName": "البرمجة وهندسة البرمجيات",
+      "termId": "term_1",
+      "termName": "الفصل الدراسي الأول",
+      "title": "كتاب هندسة البرمجيات وتطوير الويب — مسار الحاسب",
+      "editionYear": "طبعة 1446-1447هـ المعتمدة",
+      "sourcePlatform": "manhaji",
+      "sourcePlatformName": "منصة منهجي المعتمدة",
+      "pdfUrl": "https://ien.edu.sa",
+      "fileName": "se_track_1446.pdf",
+      "fileSizeBytes": 23800000,
+      "uploadedAt": "2026-09-01T08:00:00.000Z",
+      "verified": true,
+      "unitsCount": 4,
+      "lessonsCount": 11
+    }
+  ]
+}
