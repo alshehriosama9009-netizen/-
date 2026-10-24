@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-const API_BASE = '/api';
+const API_BASE = 'https://tahaddi-server.onrender.com/api';
 
 export class ApiError extends Error {
   code?: string;
